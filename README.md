@@ -1,0 +1,3 @@
+# rosalind
+
+Solving rosalind problems.
